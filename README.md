@@ -1,3 +1,5 @@
+!!!Important!!! Please use the Jupyter notebook to run the code as of 22nd August 2023.
+
 # Fraudulent Transaction Detection
 
 ## Overview
